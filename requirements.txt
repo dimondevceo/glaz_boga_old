@@ -1,0 +1,9 @@
+requests
+telebot
+twilio
+pyTelegramBotAPI
+vk
+bs4
+twilio
+json
+pandas
