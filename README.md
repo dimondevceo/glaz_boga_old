@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/c/DimonDev?sub_confirmation=1"><img src="https://i.pinimg.com/originals/a5/10/2e/a5102eada32982c1ccac65804eab67c1.png" height="50px"></a> <a href="https://t.me/dimondevchat"><img src="https://i1.wp.com/www.sscnaukari.in/wp-content/uploads/2018/09/telegram.png?fit=2521%2C788&ssl=1" height="50px"></a>
-<h1 align="center"><b>Очко Бога</b></h1>
+<h1 align="center"><b>Глаз Бога (deprecated)</b></h1>
 <h3 align="center"><img src="https://i.pinimg.com/originals/fb/54/32/fb5432d427365fa3dfd0dc165b72a171.jpg" alt="god" height="500px"></h3>
 <p align="center">Это (устаревший, вот новый рабочий: https://github.com/SegYT/glazboga) бот с открытым кодом для OSINT (интернет разведки). Он очень похож на Глаз Бога.</p>
 <p align="center">Сделан программистом DimonDev: https://youtube.com/dimondev</p>
